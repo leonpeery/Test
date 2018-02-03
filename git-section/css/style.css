@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #613a62;
+    color: #fff;
+}
+
+h1,h2,p {
+    padding: 30px;
+}
+
+h1{
+    color: #7f228b;
+
+}
+
+p{
+    width: 400px;
+    margin: auto;
+}
